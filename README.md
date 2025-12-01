@@ -95,8 +95,8 @@ Siga este fluxo:
 
 ## 📄 Licença
 
-    Projeto disponibilizado sob a licença **MIT**.  
-    Sinta-se livre para usar, modificar e distribuir.
+Projeto disponibilizado sob a licença **MIT**.  
+Sinta-se livre para usar, modificar e distribuir.
 
 ---
 
